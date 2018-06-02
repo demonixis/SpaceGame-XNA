@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Collection="SpaceGame.Data.Collection" xmlns:Description="SpaceGame.Data.Description">
+  <Asset Type="Collection:SpaceCollection[Description:SpaceShipDescription]">
+    <Collection>
+      <Item>
+        <Key>0</Key>
+        <Value>
+          <Id>0</Id>
+          <SpaceShitType>ShipA</SpaceShitType>
+          <AssetName>Ship/ShipA_64</AssetName>
+          <Health>100</Health>
+          <Shield>100</Shield>
+          <ShipSpeed>
+            <Left>0.9</Left>
+            <Right>0.9</Right>
+            <Up>0.15</Up>
+            <Down>0.45</Down>
+          </ShipSpeed>
+          <PrimaryWeaponId>1</PrimaryWeaponId>
+          <SecondaryWeaponId>3</SecondaryWeaponId>
+          <Model>ZThunder 4</Model>
+          <Category>Destroyer</Category>
+          <Weight>6750</Weight>
+          <PrimaryWeapons>Two tacticals lasers</PrimaryWeapons>
+          <SecondaryWeapons>One missile launcher</SecondaryWeapons>
+          <Description>No description yet, but don't worry.. it's coming !</Description>
+        </Value>
+      </Item>
+      <Item>
+        <Key>1</Key>
+        <Value>
+          <Id>1</Id>
+          <SpaceShitType>ShipB</SpaceShitType>
+          <AssetName>Ship/ShipB_64</AssetName>
+          <Health>100</Health>
+          <Shield>100</Shield>
+          <ShipSpeed>
+            <Left>0.9</Left>
+            <Right>0.9</Right>
+            <Up>0.15</Up>
+            <Down>0.45</Down>
+          </ShipSpeed>
+          <PrimaryWeaponId>2</PrimaryWeaponId>
+          <SecondaryWeaponId>3</SecondaryWeaponId>
+          <Model>Pulsar X6</Model>
+          <Category>Interceptor</Category>
+          <Weight>5560</Weight>
+          <PrimaryWeapons>Two tacticals lasers</PrimaryWeapons>
+          <SecondaryWeapons>One missile launcher</SecondaryWeapons>
+          <Description>No description yet too, I'm so sorry, but don't worry.. it's coming !</Description>
+        </Value>
+      </Item>
+      <Item>
+        <Key>2</Key>
+        <Value>
+          <Id>2</Id>
+          <SpaceShitType>MercsA</SpaceShitType>
+          <AssetName>Ship/MercsA_64</AssetName>
+          <Health>100</Health>
+          <Shield>100</Shield>
+          <ShipSpeed>
+            <Left>0.9</Left>
+            <Right>0.9</Right>
+            <Up>0.15</Up>
+            <Down>0.45</Down>
+          </ShipSpeed>
+          <PrimaryWeaponId>0</PrimaryWeaponId>
+          <SecondaryWeaponId>3</SecondaryWeaponId>
+          <Model>Raptor d1</Model>
+          <Category>Mercenary</Category>
+          <Weight>2405</Weight>
+          <PrimaryWeapons>Three photon lasers</PrimaryWeapons>
+          <SecondaryWeapons>Aggressor special missile</SecondaryWeapons>
+          <Description>It is a lightweight fighter, his only goal is destruction. 
+Mercenaries respect one thing: money. If you pay them well 
+so they will do a fantastic job, but otherwise .. they will turn against you!</Description>
+        </Value>
+      </Item>
+      <Item>
+        <Key>3</Key>
+        <Value>
+          <Id>3</Id>
+          <SpaceShitType>MercsB</SpaceShitType>
+          <AssetName>Ship/MercsB_64</AssetName>
+          <Health>100</Health>
+          <Shield>100</Shield>
+          <ShipSpeed>
+            <Left>0.9</Left>
+            <Right>0.9</Right>
+            <Up>0.15</Up>
+            <Down>0.45</Down>
+          </ShipSpeed>
+          <PrimaryWeaponId>0</PrimaryWeaponId>
+          <SecondaryWeaponId>3</SecondaryWeaponId>
+          <Model>Mantra N4</Model>
+          <Category>Mercenary</Category>
+          <Weight>2500</Weight>
+          <PrimaryWeapons>Two tacticals lasers</PrimaryWeapons>
+          <SecondaryWeapons>Unknow missile technologie</SecondaryWeapons>
+          <Description>A ship with an old alien technology.. Nobody knows exactly how the 
+ship works, but it is a formidable opponent in close combat</Description>
+        </Value>
+      </Item>
+    </Collection>
+  </Asset>
+</XnaContent>

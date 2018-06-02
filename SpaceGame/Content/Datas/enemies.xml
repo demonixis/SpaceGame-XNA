@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Collection="SpaceGame.Data.Collection" xmlns:Description="SpaceGame.Data.Description">
+  <Asset Type="Collection:SpaceCollection[Description:EnnemyDescription]">
+    <Collection>
+      <Item>
+        <Key>0</Key>
+        <Value>
+          <Id>0</Id>
+          <AssetName>Aliens/OrganicA_48</AssetName>
+          <Health>100</Health>
+          <Shield>0</Shield>
+          <Framerate>150</Framerate>
+          <Speed>1</Speed>
+          <AnimationSize>48 48</AnimationSize>
+          <AnimationIndex>1 2 3 4</AnimationIndex>
+        </Value>
+      </Item>
+      <Item>
+        <Key>1</Key>
+        <Value>
+          <Id>1</Id>
+          <AssetName>Aliens/OrganicB_48</AssetName>
+          <Health>100</Health>
+          <Shield>0</Shield>
+          <Framerate>150</Framerate>
+          <Speed>1</Speed>
+          <AnimationSize>48 48</AnimationSize>
+          <AnimationIndex>1 2 3 4</AnimationIndex>
+        </Value>
+      </Item>
+      <Item>
+        <Key>2</Key>
+        <Value>
+          <Id>2</Id>
+          <AssetName>Aliens/RobotA_48</AssetName>
+          <Health>130</Health>
+          <Shield>0</Shield>
+          <Framerate>75</Framerate>
+          <Speed>2</Speed>
+          <AnimationSize>48 48</AnimationSize>
+          <AnimationIndex>1 2 3 4</AnimationIndex>
+        </Value>
+      </Item>
+      <Item>
+        <Key>3</Key>
+        <Value>
+          <Id>3</Id>
+          <AssetName>Aliens/RobotB_48</AssetName>
+          <Health>100</Health>
+          <Shield>0</Shield>
+          <Framerate>75</Framerate>
+          <Speed>2</Speed>
+          <AnimationSize>63 48</AnimationSize>
+          <AnimationIndex>1 2 3 4</AnimationIndex>
+        </Value>
+      </Item>
+      <Item>
+        <Key>4</Key>
+        <Value>
+          <Id>4</Id>
+          <AssetName>Aliens/AnciensA_48</AssetName>
+          <Health>150</Health>
+          <Shield>0</Shield>
+          <Framerate>150</Framerate>
+          <Speed>2</Speed>
+          <AnimationSize>32 48</AnimationSize>
+          <AnimationIndex>1 2 3 4</AnimationIndex>
+        </Value>
+      </Item>
+      <Item>
+        <Key>5</Key>
+        <Value>
+          <Id>5</Id>
+          <AssetName>Aliens/AnciensB_48</AssetName>
+          <Health>120</Health>
+          <Shield>0</Shield>
+          <Framerate>200</Framerate>
+          <Speed>2</Speed>
+          <AnimationSize>75 64</AnimationSize>
+          <AnimationIndex>1 2 3 4</AnimationIndex>
+        </Value>
+      </Item>
+    </Collection>
+  </Asset>
+</XnaContent>

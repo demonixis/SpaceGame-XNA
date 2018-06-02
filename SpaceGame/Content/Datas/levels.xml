@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Collection="SpaceGame.Data.Collection" xmlns:Description="SpaceGame.Data.Description">
+  <Asset Type="Collection:SpaceCollection[Description:LevelDescription]">
+    <Collection>
+      <Item>
+        <Key>0</Key>
+        <Value>
+          <Id>0</Id>
+          <Name>First Escape</Name>
+          <AuthorizedEnnemy>
+            <Item>AncienA</Item>
+            <Item>RobotA</Item>
+          </AuthorizedEnnemy>
+          <LevelTimeMax>300</LevelTimeMax>
+        </Value>
+      </Item>
+      <Item>
+        <Key>1</Key>
+        <Value>
+          <Id>1</Id>
+          <Name>First Escape</Name>
+          <AuthorizedEnnemy>
+            <Item>OrganicsA</Item>
+            <Item>RobotB</Item>
+          </AuthorizedEnnemy>
+          <LevelTimeMax>300</LevelTimeMax>
+        </Value>
+      </Item>
+    </Collection>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Collection="SpaceGame.Data.Collection" xmlns:Description="SpaceGame.Data.Description">
+  <Asset Type="Collection:SpaceCollection[Description:WeaponDescription]">
+    <Collection>
+      <Item>
+        <Key>0</Key>
+        <Value>
+          <Id>0</Id>
+          <WeaponType>Laser</WeaponType>
+          <AssetName>Weapons/Lasers/laser_green</AssetName>
+          <Damage>55</Damage>
+          <Interval>250</Interval>
+          <Speed>6</Speed>
+          <Acceleration>0 2</Acceleration>
+          <Directions>0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1</Directions>
+          <Rotations>0 0 0 0 0 0 0</Rotations>
+          <SoundAsset></SoundAsset>
+        </Value>
+      </Item>
+      <Item>
+        <Key>1</Key>
+        <Value>
+          <Id>1</Id>
+          <WeaponType>Sphere</WeaponType>
+          <AssetName>Weapons/Sphere/sphere_blue</AssetName>
+          <Damage>15</Damage>
+          <Interval>75</Interval>
+          <Speed>8</Speed>
+          <Acceleration>2 2</Acceleration>
+          <Directions>-1 0 -0.75 -0.5 -0.5 -1 0 -1 0.5 -1 0.75 -0.5 1 0</Directions>
+          <Rotations>0 0 0 0 0 0 0</Rotations>
+          <SoundAsset></SoundAsset>
+        </Value>
+      </Item>
+      <Item>
+        <Key>2</Key>
+        <Value>
+          <Id>2</Id>
+          <WeaponType>Burst</WeaponType>
+          <AssetName>Weapons/Burst/burst_blue</AssetName>
+          <Damage>15</Damage>
+          <Interval>45</Interval>
+          <Speed>6</Speed>
+          <Acceleration>2 2</Acceleration>
+          <Directions>-0.75 -1 -0.5 -1 -0.25 -1 0 -1 0.25 -1 0.5 -1 0.75 -1</Directions>
+          <Rotations>-75 -45 -25 0 25 45 75</Rotations>
+          <SoundAsset></SoundAsset>
+        </Value>
+      </Item>
+      <Item>
+        <Key>3</Key>
+        <Value>
+          <Id>3</Id>
+          <WeaponType>Missile</WeaponType>
+          <AssetName>Weapons/Missile/missile</AssetName>
+          <Damage>105</Damage>
+          <Interval>1500</Interval>
+          <Speed>6</Speed>
+          <Acceleration>0 2</Acceleration>
+          <Directions>0 -1 0 -1 0 -1 0 -1 0 -1 0 -1 0 -1</Directions>
+          <Rotations>0 0 0 0 0 0 0</Rotations>
+          <SoundAsset></SoundAsset>
+        </Value>
+      </Item>
+    </Collection>
+  </Asset>
+</XnaContent>
